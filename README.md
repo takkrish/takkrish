@@ -11,8 +11,8 @@
 -  My major interest are in developing **Frontend**,
 -  currently learning **ReactJs** and also working on my Backend Skills.
 -  working on two Projects
-  -  **MERN**
-  -  **React + Firebase**
+    -  **MERN**
+    -  **React + Firebase**
 
 ---
 
