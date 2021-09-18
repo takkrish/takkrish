@@ -9,7 +9,16 @@
 -  currently living in **Mumbai** 🇮🇳 ,
 -  persuing B.Tech in Computer Science Engineering from Manipal University Jaipur.
 -  My major interest are in developing **Frontend**,
--  Currently learning **ReactJs** and also working on my Backend Skills.
+-  currently learning **ReactJs** and also working on my Backend Skills.
+-  working on two Projects
+-  **MERN**
+-  **React + Firebase**
+
+---
+
+#### Have a look at my Portfolio **_[click](https://takkrish.github.io/portfolio)_**
+
+---
 
 #### Languages
 
@@ -35,7 +44,7 @@
 
 [![facebook](https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/krish.takk02/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_krishtak._/)
-[![snapchat](https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/takrishtak2002)
+[![snapchat](https://img.shields.io/badge/snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/takrishtak2002)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-tak-13aab7214/)
 [![dribble](https://img.shields.io/badge/dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/takkrish)
 [![behance](https://img.shields.io/badge/behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/krishtk)
@@ -44,18 +53,17 @@
 
 [![whatsapp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://Wa.me/+919001889409)
 [![mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:takrishtak2002@gmail.com)
-<br/>
-<br/>
-<br/>
 
+<br/>
+<br/>
+<br/>
 <p align="center">
-<img alt="streakstats" src="https://github-readme-stats.vercel.app/api?username=takkrish&count_private=true&show_icons=true&theme=flag-india&include_all_commits=true&hide_title=true"/>
+<img alt="streakstats" src="https://github-readme-streak-stats.herokuapp.com/?user=takkrish&theme=slateorange&hide_border=true"/>
 </p>
-
 <br/>
-
 <p align="center">
-<img alt="langstats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takkrish&layout=compact&theme=flag-india"/>
+<img alt="streakstats" src="https://github-readme-stats.vercel.app/api?username=takkrish&count_private=true&show_icons=true&theme=slateorange&include_all_commits=true&hide_title=true&hide_border=true"/>
 </p>
+<br/>
 <br/>
 <br/>
