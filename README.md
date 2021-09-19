@@ -4,7 +4,7 @@
 
 ## About Me
 
-#### I'm Krish Tak a **Web Developer**
+#### I'm Krish Tak a **Frontend Web Developer**
 
 -  currently living in **Mumbai** 🇮🇳 ,
 -  persuing B.Tech in Computer Science Engineering from Manipal University Jaipur.
