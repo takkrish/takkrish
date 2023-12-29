@@ -21,37 +21,23 @@ Hi, I am Krish Tak a **Full Stack Developer**
 
 ## Languages
 
-<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-<img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
-<img alt="sql" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="c++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img alt="sql" src="https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Frontend
 
-<img alt="nextjs" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="reactjs" src="https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img alt="tailwind css" src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white"/>
+<img alt="nextjs" src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img alt="reactjs" src="https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=white"/> <img alt="tailwind css" src="https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind css&logoColor=white"/>
 
 ### Backend
 
-<img alt="express" src="https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white"/> 
-<img alt="nodejs" src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="express" src="https://img.shields.io/badge/express-000?style=for-the-badge&logo=express&logoColor=white"/> <img alt="nodejs" src="https://img.shields.io/badge/nodejs-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img alt="postman" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ### Database
 
-<img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img alt="mongodb" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="redis" src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=firebase&logoColor=white"/> <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ### Tools
 
-<img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
-<img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
-<img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-<img alt="macos" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img alt="github" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> <img alt="vscode" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="macos" src="https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white"/>
 
 ---
 
